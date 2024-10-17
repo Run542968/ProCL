@@ -197,4 +197,4 @@ dependencies:
   - zipp=3.1.0=py_0
   - zlib=1.2.11=h7b6447c_3
   - zstd=1.4.9=haebb681_0
-prefix: /home/jiarun/anaconda3/envs/BUTD_WAL
+prefix: /home/user/anaconda3/envs/ProCL

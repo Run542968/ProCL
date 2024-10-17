@@ -24,6 +24,7 @@ losses for weakly-supervised temporal action localization, bridging the gap betw
 - We conduct the environments on a **single 1080Ti** GPU.
 - Create the anaconda environment as what we used, as bellow:
 ```shell
+# NOTE: before execute this command, you should change the "prefix" in the environment.yaml
 conda env create -f environment.yaml
 ```
 
